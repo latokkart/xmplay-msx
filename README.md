@@ -19,6 +19,6 @@ ESC quits at any time.
 
 ## Example songs
 - `AQUABABE.XM` (18 channels)
-- `ADAY.XM` ("A day without her", 28 channels, uses the mixer)
+- `ADAY.XM` ("A day without her", 28 channels)
 
 The example songs are the work of their original authors and are included for testing only.
